@@ -3,7 +3,16 @@ AI-Powered Diabetes Prediction System
       <img width="1775" height="893" alt="image" src="https://github.com/user-attachments/assets/abe9d9aa-4863-4c7d-9fcb-efe91f3c25de" />
 
 ## Objective
-Perform exploratory data analysis on the PIMA Indians Diabetes Dataset before training the machine learning model.
+
+• To develop a web-based diabetes prediction system using Machine Learning.
+• To predict the risk of diabetes based on patient clinical parameters.
+• To preprocess healthcare data and improve prediction accuracy using feature scaling and feature engineering.
+• To implement the K-Nearest Neighbors (KNN) algorithm for diabetes classification.
+• To provide an interactive and user-friendly interface using Streamlit.
+• To visualize healthcare data through charts and dashboards for better understanding.
+• To generate instant prediction results along with confidence scores.
+• To provide basic health recommendations based on the prediction outcome.
+• To support early diabetes risk assessment and encourage timely medical consultation.
 
 ## Dataset
 - diabetes.csv
