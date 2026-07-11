@@ -1,9 +1,6 @@
-<img width="1884" height="888" alt="image" src="https://github.com/user-attachments/assets/55ba22b7-e6b5-4113-bc7b-ffd1e72036b8" /># Diabetes Disease Prediction - Exploratory Data Analysis
-
 ## Project
 AI-Powered Diabetes Prediction System
 <img width="1884" height="888" alt="image" src="https://github.com/user-attachments/assets/a01fff61-b0f5-407e-afca-6f4cf4817d97" />
-
 
 ## Objective
 Perform exploratory data analysis on the PIMA Indians Diabetes Dataset before training the machine learning model.
@@ -11,9 +8,10 @@ Perform exploratory data analysis on the PIMA Indians Diabetes Dataset before tr
 ## Dataset
 - diabetes.csv
 - Source: PIMA Indians Diabetes Dataset
+  <img width="1840" height="887" alt="image" src="https://github.com/user-attachments/assets/bfee7abe-9e65-4e38-9d3a-3eb99bc2516d" />
+
 
 ## Steps Performed
-
 - Imported required libraries
 - Loaded dataset
 - Checked dataset shape
