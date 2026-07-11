@@ -1,6 +1,7 @@
 
  ### AI-Powered Diabetes Prediction System
-     <img width="1826" height="893" alt="image" src="https://github.com/user-attachments/assets/8ebf1c98-01fe-475d-b650-6a8fcc36178c" />
+ <img width="1779" height="893" alt="image" src="https://github.com/user-attachments/assets/cd1fb3d1-21e6-4bee-b0ba-e4a761bf7d3f" />
+
 
 
 ## Objective
